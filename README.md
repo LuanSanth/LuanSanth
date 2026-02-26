@@ -100,11 +100,11 @@ Gerar — Completed _(03/2026)_
 <p align="center">
 
 <img 
-    height="220" 
+    height="200" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuanSanth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" 
   />
 <img 
-    height="220"
+    height="200"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuanSanth&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" 
   />
 
