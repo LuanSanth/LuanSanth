@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Full Stack | Systems & Automation</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/luan-moura-a694142ba/](https://www.linkedin.com/in/luan-moura-a694142ba/">
+  <a href="https://www.linkedin.com/in/luan-moura-a694142ba/">
     <img src="https://img.shields.io/badge/In-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://instagram.com/santware.dev">
