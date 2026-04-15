@@ -95,6 +95,15 @@ Gerar — Completed _(03/2026)_
 
 <br>
 
+# 🖥️ Portfolio — Freelance Projects
+
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| **Eduardo Tattoo House** | Commercial website for a tattoo studio in Curitiba/PR | React · TypeScript · Vite · Tailwind · GSAP · Radix UI | [edutattoohouse.com.br](https://edutattoohouse.com.br) |
+| **Estúdio Julio Fonseca** | Professional website for a tattoo studio in Curitiba/PR | React · TypeScript · Vite · Tailwind · GSAP | [pontofonseca.com](https://www.pontofonseca.com) |
+
+<br>
+
 # 📊 GitHub Analytics
 
 <p align="center">
