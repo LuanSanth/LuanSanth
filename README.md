@@ -99,8 +99,9 @@ Gerar — Completed _(03/2026)_
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
+| **SantWare - Soluções Digitais** | Professional website for a digital solutions agency, focused on web development, automation and business-oriented systems with emphasis on performance and UI/UX | React · Next.js · TypeScript · Vite · Tailwind · GSAP | [santware.com](https://www.santware.com) |
 | **Eduardo Tattoo House** | Commercial website for a tattoo studio in Curitiba/PR | React · TypeScript · Vite · Tailwind · GSAP · Radix UI | [edutattoohouse.com.br](https://edutattoohouse.com.br) |
-| **Estúdio Julio Fonseca** | Professional website for a tattoo studio in Curitiba/PR | React · TypeScript · Vite · Tailwind · GSAP | [pontofonseca.com](https://www.pontofonseca.com) |
+| **Estúdio Julio Fonseca** | Commercial website for a tattoo studio in Curitiba/PR | React · TypeScript · Vite · Tailwind · GSAP | [pontofonseca.com](https://www.pontofonseca.com) |
 
 <br>
 
